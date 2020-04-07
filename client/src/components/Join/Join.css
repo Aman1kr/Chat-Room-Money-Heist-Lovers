@@ -69,3 +69,10 @@ html, body {
   button:focus {
     outline: 0;
   }
+
+  .flag-icon {
+    width: 100px;
+    height: 100px;
+    vertical-align: middle;
+    margin-left: 3px;
+  }

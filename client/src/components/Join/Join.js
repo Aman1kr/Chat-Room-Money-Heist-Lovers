@@ -10,6 +10,7 @@ const Join = () => {
     return (
         <div className="joinOuterContainer">
             <div className="joinInnerContainer">
+                <img class="flag-icon" src="logo.png" />
                 <h1 className="heading">Join</h1>
                 <div><input placeholder="Name" className="joinInput" type="text" onChange={(event)=>setName(event.target.value)} /></div>
                 <div><input placeholder="Room" className="joinInput" type="text" onChange={(event)=>setRoom(event.target.value)} /></div>
