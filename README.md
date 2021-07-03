@@ -6,6 +6,6 @@
 
 ![](https://i.ibb.co/FnszgHF/snap.png)
 
-## Site Name:- www.theprofessor.ml
+## Site Name:- https://nostalgic-ramanujan-aa8323.netlify.app/
 ###### You can make room and share the room name to your friends and enjoy chatting in a real time  
                                                                                            ~tribute to Nairobi💗💖
